@@ -1,0 +1,11 @@
+.opening_crawl {
+    list-style: none;
+  }
+
+  .infosShip {
+    list-style: none;
+  }
+
+  .allCategories {
+    display: flex;
+  }
